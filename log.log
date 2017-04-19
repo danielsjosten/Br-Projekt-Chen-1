@@ -1,0 +1,11 @@
+apr 19, 2017 2:38:28 EM other.TestOther setUpBeforeClass
+INFO: @BeforeClass - setUpBeforeClass()
+
+apr 19, 2017 2:38:38 EM other.TestOther setUp
+INFO: @Before - setUp()
+
+apr 19, 2017 2:38:39 EM other.TestOther testAboutUs
+INFO: expected:<...tps://www.br.se/om-b[]> but was:<...tps://www.br.se/om-b[r]>
+apr 19, 2017 2:38:41 EM other.TestOther tearDownAfterClass
+INFO: @AfterClass - tearDownAfterClass()
+
